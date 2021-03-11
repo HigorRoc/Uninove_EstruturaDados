@@ -11,6 +11,10 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 > Link do Google Drive: [Clique aqui](https://drive.google.com/drive/folders/1L10xGj25mCOo0QdeSboCw6zQmdxJpM6n?usp=sharing)
 
+> Link do Replit: [Clique aqui](https://repl.it/~/)
+ 
+> Link do Online GDB: [Clique aqui](https://www.onlinegdb.com/)
+ 
 ---
 
 Quaisquer dúvidas, entrar em contato através do e-mail institucional: 
