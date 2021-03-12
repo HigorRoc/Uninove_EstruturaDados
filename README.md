@@ -22,7 +22,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ### Código das Aulas
 
 - **Aula 01 - 25.02:** Desafio Cronometro - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2001%20-%2025.02.2021)
-- **Aula 02 - 04.03:** Vetores [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2002%20-%2004.03.2021)
+- **Aula 02 - 04.03:** Vetores - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2002%20-%2004.03.2021)
 - **Aula 03 - 11.03:** Desafio Nota Alunos - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2003%20-%2011.03.2021)
 
 ---
