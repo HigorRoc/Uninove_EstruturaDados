@@ -7,8 +7,11 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ---
 
+### :pushpin: Atividades
 > Status das Atividades: Em desenvolvimento :warning:
 
+---
+### :pushpin: Links Utilizados
 > Link do GitHub Prof.: [Clique aqui](https://github.com/DanielGTI/Estrutura_de_Dados)
 
 > Link do Google Drive: [Clique aqui](https://drive.google.com/drive/folders/1L10xGj25mCOo0QdeSboCw6zQmdxJpM6n?usp=sharing)
@@ -19,7 +22,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
  
 ---
 
-### Código das Aulas
+### :pushpin: Código das Aulas
 
 - **Aula 01 - 25.02:** Desafio Cronometro - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2001%20-%2025.02.2021)
 - **Aula 02 - 04.03:** Vetores - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2002%20-%2004.03.2021)
