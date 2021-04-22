@@ -26,8 +26,9 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 - **Aula 02 - 04.03:** Vetores - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2002%20-%2004.03.2021)
 - **Aula 03 - 11.03:** Desafio Nota Alunos - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2003%20-%2011.03.2021)
 - **Aula 04 - 18.03:** Desafio Mega Sena - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2004%20-%2018.03.2021)
-- **Aula 05 - 25.03:** Metódo Bolha - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2005%20-%2025.03.2021)
+- **Aula 05 - 25.03:** Metódo Bubble Sort - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2005%20-%2025.03.2021)
 - **Aula 06 - 08.04:** Metódo Select Sort - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2006%20-%2008.04.2021)
+- **Aula 07 - 15.04:** Metódo Insert Sort - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2007%20-%2015.04.2021)
 
 ---
 
