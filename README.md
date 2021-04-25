@@ -8,7 +8,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ---
 
 ### :pushpin: Atividades
-> Status das Atividades: Em desenvolvimento :warning:
+> Status da Atividade: Ordenação 22.04.2021 :heavy_check_mark:
 
 ---
 ### :pushpin: Links Utilizados
