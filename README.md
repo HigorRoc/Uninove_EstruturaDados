@@ -29,7 +29,9 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 - **Aula 05 - 25.03:** Metódo Bubble Sort - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2005%20-%2025.03.2021)
 - **Aula 06 - 08.04:** Metódo Selection Sort - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2006%20-%2008.04.2021)
 - **Aula 07 - 15.04:** Metódo Insertion Sort - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2007%20-%2015.04.2021)
-- **Aula 08 - 22.04:** Atividade p/ Nota - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2008%20-%2022.04.2021%20(Atividade))
+- **Aula 08 - 22.04:** Atividade 01 - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2008%20-%2022.04.2021%20(Atividade))
+- **Aula 09 - 29.04:** Métodos de Pesquisa - [Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2009%20-%2029.04.2021)
+- **Aula 10 - 06.05:** Atividade 02 -[Clique aqui](https://github.com/HigorRoc/Uninove_2021.1_EstruturaDados/tree/main/Aula%2010%20-%2006.05.2021%20(Atividade))
 
 ---
 
